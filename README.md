@@ -1,5 +1,7 @@
 # Autogluon
 
+Youtube: [AutoGluon](https://www.youtube.com/playlist?list=PLmMNfv-hv1ha4Io6vm3_nN52pVgnHBgI-)
+
 ### A. Multi-Label Classification
 
 Tutorial: Tabular Multi-Label
